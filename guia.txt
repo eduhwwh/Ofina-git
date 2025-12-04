@@ -2,3 +2,7 @@ Guia de Viagens
 
 Cidade: Rio de Janeiro
 - Descrição: Cidade maravilhosa.
+
+Recomendações de Restaurantes:
+- Pão de Açúcar Grill
+- Boteco da Lapa
