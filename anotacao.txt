@@ -1,1 +1,2 @@
 Meu primeiro arquivo versionado.
+Adicionando uma segunda linha para testar commits.
